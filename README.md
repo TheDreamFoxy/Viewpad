@@ -2,7 +2,7 @@
 A code that converts video into Launchpad Pro.
 
 # Instalation
-`pip install -i requirements.txt`
+`pip install -r requirements.txt`
 
 # Usage
 - In `config.py` enter the video location and choose if you want the color test.
